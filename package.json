@@ -10,8 +10,10 @@
     "lint:css": "stylelint 'src/**/*.css' 'src/**/*.scss' --fix"
   },
   "dependencies": {
+    "@astrojs/preact": "^4.1.0",
     "@tailwindcss/vite": "^4.1.11",
     "astro": "^5.12.8",
+    "preact": "^10.27.0",
     "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
